@@ -10,7 +10,7 @@ class CustomSearchTextField extends StatelessWidget {
       keyboardType: TextInputType.text,
       decoration: BoxDecoration(
         border: Border.all(
-          color: Colors.grey,
+          color: Color.fromARGB(255, 168, 167, 167),
           width: 1.4,
         ),
         borderRadius: BorderRadius.circular(25),
